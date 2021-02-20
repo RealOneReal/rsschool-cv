@@ -14,7 +14,6 @@ recently acquired knowledge. I would also like to further my professional develo
 **Skills**
 
 * Basic knowledges in HTML,CSS,CoreJS
-* also i start to study ReactJS
 
 **Code example**
 
